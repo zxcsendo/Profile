@@ -9,7 +9,7 @@ export const PROFILE = {
   phone: "09916947479",
   email: "joshuatrajano143@gmail.com",
   availability: "Open for OJT, Part-time & Entry-level IT roles",
-  photo: "/profile.jpg",
+  photo: `${import.meta.env.BASE_URL}profile.jpg`,
 };
 
 export const EDUCATION = {
