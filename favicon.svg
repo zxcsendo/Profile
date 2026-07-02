@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#0a0a0a"/>
+  <!-- ears -->
+  <path d="M14 24 L20 8 L28 22 Z" fill="#f5f5f5"/>
+  <path d="M50 24 L44 8 L36 22 Z" fill="#f5f5f5"/>
+  <path d="M17 21 L20 12 L24 20 Z" fill="#ffb6c8"/>
+  <path d="M47 21 L44 12 L40 20 Z" fill="#ffb6c8"/>
+  <!-- head -->
+  <ellipse cx="32" cy="36" rx="22" ry="20" fill="#fafafa"/>
+  <!-- cheeks -->
+  <ellipse cx="18" cy="40" rx="5" ry="3.5" fill="#f0e8e8" opacity="0.5"/>
+  <ellipse cx="46" cy="40" rx="5" ry="3.5" fill="#f0e8e8" opacity="0.5"/>
+  <!-- eyes whites -->
+  <ellipse cx="23" cy="34" rx="7" ry="8" fill="#fff"/>
+  <ellipse cx="41" cy="34" rx="7" ry="8" fill="#fff"/>
+  <!-- left eye blue -->
+  <circle cx="23" cy="35" r="5" fill="#3b9eff"/>
+  <circle cx="23" cy="35" r="2.5" fill="#0a1628"/>
+  <circle cx="21.5" cy="33.5" r="1.2" fill="#fff" opacity="0.9"/>
+  <!-- right eye green -->
+  <circle cx="41" cy="35" r="5" fill="#34d399"/>
+  <circle cx="41" cy="35" r="2.5" fill="#0a1a12"/>
+  <circle cx="39.5" cy="33.5" r="1.2" fill="#fff" opacity="0.9"/>
+  <!-- nose -->
+  <path d="M32 42 L29 46 L35 46 Z" fill="#ffb6c8"/>
+  <!-- mouth -->
+  <path d="M32 46 Q28 50 25 48" stroke="#ccc" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+  <path d="M32 46 Q36 50 39 48" stroke="#ccc" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+  <!-- whiskers -->
+  <line x1="8" y1="38" x2="16" y2="37" stroke="#ddd" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="8" y1="42" x2="16" y2="42" stroke="#ddd" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="48" y1="37" x2="56" y2="38" stroke="#ddd" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="48" y1="42" x2="56" y2="42" stroke="#ddd" stroke-width="0.8" stroke-linecap="round"/>
+</svg>
